@@ -1,0 +1,12 @@
+﻿# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Logs and artifacts (tracked via .gitkeep placeholders)
+data/raw/
+data/parsed/
+
+# OS/editor
+.DS_Store
+Thumbs.db
